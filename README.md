@@ -12,10 +12,11 @@ este arquivo.
 
 - confidencial.txt
 
-`Estas são informações confidenciais,
+```
+Estas são informações confidenciais,
 o que significa que você
-provavelmente sabe a palavra secreta!`
-
+provavelmente sabe a palavra secreta!
+```
 
 Usando o padrão *Factory Method*, crie duas provedoras de informação: uma que retorna informações
 públicas e outra que retorna informações confidenciais. Utilize o provedor confidencial se o usuário informar
