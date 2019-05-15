@@ -4,20 +4,16 @@
 ## Crie dois arquivos texto em um diretório qualquer:
 - publico.txt
 
-Estas são informações públicas sobre
-
+' Estas são informações públicas sobre
 qualquer coisa. Todo mundo pode ver
-
-este arquivo.
+este arquivo. '
 
 
 - confidencial.txt
 
-Estas são informações confidenciais,
-
+' Estas são informações confidenciais,
 o que significa que você
-
-provavelmente sabe a palavra secreta!
+provavelmente sabe a palavra secreta! '
 
 
 Usando o padrão *Factory Method*, crie duas provedoras de informação: uma que retorna informações
