@@ -1,7 +1,7 @@
 # 3.2.Exercício:
 
 
-## Crie dois arquivos texto em um diretório qualquer:
+###### Crie dois arquivos texto em um diretório qualquer:
 - publico.txt
 
 ```
